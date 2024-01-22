@@ -2,6 +2,9 @@
 
 This repository contains the teaching material of the introduction to stata class I am teaching on the master 1 level at the University of Bordeaux. This course is an introductory class to stata. 
 
+## Room and Time
+Each tuesday 8:00-9h30 in H1‑202.
+
 ##  Assignment 
 1. Submission of do-files from exercises in each class
 - 20% of final grade
