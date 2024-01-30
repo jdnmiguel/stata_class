@@ -17,8 +17,8 @@ to practice)
 - Submission within one or two days (exact date to be decided)
 
 ## Class schedule
-1. Introduction to Stata and Data Management
-2. Data Cleaning
+1. Introduction to Stata and Data Management [slides](https://github.com/jdnmiguel/stata_class/blob/main/s1/s1.pdf) [dofile](https://github.com/jdnmiguel/stata_class/blob/main/s1/s1.do)
+2. Data Cleaning [slides](https://github.com/jdnmiguel/stata_class/blob/main/s2/s2.pdf)
 3. Data Exploration and Visualizations
 4. Inferential Statistics and Hypothesis Testing in Stata
 5. Linear Regression and Other Modeling Techniques
