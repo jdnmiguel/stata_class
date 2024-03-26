@@ -1,6 +1,6 @@
 # Econometric Softwares: Stata
 
-This repository contains the teaching material of the introduction to stata class I am teaching on the master 1 level at the University of Bordeaux. This course is an introductory class to stata. 
+This repository contains the teaching material of the introduction to stata class I am teaching on the master 1 level at the University of Bordeaux. This course is an introductory class to stata. I thank [Ulugbek Aminjonov](https://sites.google.com/view/ulugbek-aminjonov) for sharing his materials.
 
 ## Room and Time
 Each tuesday 8:00-9h30 in H1‑202.
